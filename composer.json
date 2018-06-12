@@ -1,5 +1,5 @@
 {
     "require": {
-        "consoletvs/charts": "5.*"
+        "laravelvps/charts": "5.*"
     }
 }
